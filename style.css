@@ -5,8 +5,4 @@ p1 {
 color: Blue;
 font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
 background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-5/htmlcss1-img_canyon.jpeg");
-background-position: center center;
-background-size: cover;
-height: 700px;
-width: 100%;
 }
